@@ -6,6 +6,8 @@ public class PRJUniPos {
     public static void main(String[] args) {
    String nombre, edad;
    int num1, num2;
+   float num3 num6;
+  
 
     }
     
